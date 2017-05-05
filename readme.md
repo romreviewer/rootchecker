@@ -14,6 +14,10 @@ else
 	{
 		Log.e("Tag","Not Rooted");
 	}
-	
+
+
+
 Credit for this class
+
+
 http://stackoverflow.com/questions/1101380/determine-if-running-on-a-rooted-device
